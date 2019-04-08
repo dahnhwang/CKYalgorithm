@@ -1,5 +1,6 @@
 # CKYalgorithm
 Spring 2019 2nd assignment for Natural Language Processing
+Last Version : 2019-04-08 (Mon)
 
 # INPUT FILES
 1. input.txt - 마침표없이 엔터로 구분된 문장들이 입력될 수 있음
