@@ -126,3 +126,8 @@ InputSentence = "I saw a man on the hill with the telescope"
 60 (VP, (3, 57))
 61 (NP, (1, 60))
 62 (S, (1, 60))
+
+# LIMITS & QUESTIONS
+1. shared-packed tree를 구현하지 못함. 
+2. tree가 여러 개 나올 수 있는데 한 개만 나오고 있음.
+3. CKY matrix랑 별개로 parseTree를 만들기 위한 자료구조로 LinkedList를 사용하였는데 잘 한 것인지 모르겠음. 구현하며 CKY matrix와 자꾸 따로 처리해줘야 하는 부분이 너무 많아서(사실은 상호 작용하는 부분이 많은데도) 별도의 자료구조를 사용하는 것이 맞는지 헷갈리는 점이 있었음.
